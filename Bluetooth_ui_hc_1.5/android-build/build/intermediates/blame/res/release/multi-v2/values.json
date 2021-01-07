@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\VCBuild\\Qt\\blutooth_app\\Bluetooth_ui\\android-build\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+            "outputFile": "D:\\Gli-ming\\Gli-ming\\Bluetooth_ui_hc_1.5\\android-build\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "C:\\VCBuild\\Qt\\blutooth_app\\Bluetooth_ui\\android-build\\res\\values\\libs.xml",
+                    "source": "D:\\Gli-ming\\Gli-ming\\Bluetooth_ui_hc_1.5\\android-build\\res\\values\\libs.xml",
                     "from": {
                         "startLines": "36,23,9,13,2",
                         "startColumns": "4,4,4,5,4",

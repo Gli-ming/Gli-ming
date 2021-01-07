@@ -9,8 +9,8 @@
    "toolchain-version": "4.9",
    "ndk-host": "windows-x86_64",
    "target-architecture": "arm64-v8a",
-   "qml-root-path": "C:/VCBuild/Qt/blutooth_app/Bluetooth_ui",
+   "qml-root-path": "D:/Gli-ming/Gli-ming/Bluetooth_ui_hc_1.5",
    "stdcpp-path": "C:\\Qt\\Android\\android-ndk-r19c-windows-x86_64\\android-ndk-r19c/sources/cxx-stl/llvm-libc++/libs/arm64-v8a/libc++_shared.so",
    "useLLVM": true,
-   "application-binary": "C:/VCBuild/Qt/blutooth_app/Bluetooth_ui/libbluetooth_ui.so"
+   "application-binary": "D:/Gli-ming/Gli-ming/Bluetooth_ui_hc_1.5/libbluetooth_ui.so"
 }

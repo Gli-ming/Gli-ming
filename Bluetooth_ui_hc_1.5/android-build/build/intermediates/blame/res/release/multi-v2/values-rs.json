@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\VCBuild\\Qt\\blutooth_app\\Bluetooth_ui\\android-build\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-rs\\values-rs.xml",
+            "outputFile": "D:\\Gli-ming\\Gli-ming\\Bluetooth_ui_hc_1.5\\android-build\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-rs\\values-rs.xml",
             "map": [
                 {
                     "source": "C:\\Qt5.12.5\\5.12.5\\android_arm64_v8a\\src\\android\\java\\res\\values-rs\\strings.xml",
